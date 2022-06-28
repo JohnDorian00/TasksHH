@@ -1,4 +1,8 @@
+## Menu
+### [Task1](#task-1) [Task2](#task-2) [Task3](#task-3) [Task4](#task-4)
+### [Task5](#task-5) [Task6](#task-6) [Task7](#task-7)
 ## Task #1
+[go back](#menu)
 > PHP: вывести цифры по порядку
 > 
 > ![](img/task1.png)
@@ -13,6 +17,7 @@
 
 
 ## Task #2
+[go back](#menu)
 > MySQL: Написать запрос для выборки данных из таблицы, где id = 10 
 
 ```SQL
@@ -21,6 +26,7 @@ SELECT * FROM table1 WHERE id=10;
 
 
 ## Task #3
+[go back](#menu)
 > PHP: вывести ключи и значения массива
 >
 > ![](img/task3.png)
@@ -35,6 +41,7 @@ SELECT * FROM table1 WHERE id=10;
 
 
 ## Task #4
+[go back](#menu)
 > PHP: вывести месяца года
 >
 > ![](img/task4.png)
@@ -49,6 +56,7 @@ SELECT * FROM table1 WHERE id=10;
 
 
 ## Task #5
+[go back](#menu)
 > PHP: Дана информация в json формате, надо вывести её. <br>
 > {"years":[1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008
 ,2009,2010]}
@@ -63,6 +71,7 @@ SELECT * FROM table1 WHERE id=10;
 
 
 ## Task #6
+[go back](#menu)
 > PHP и MySQL: Дан код, нужно ответить на вопросы аргументировав
 свой ответ
 
@@ -80,6 +89,7 @@ DELETE FROM users WHERE id > 0 AND id < 6;
 
 
 ## Task #7
+[go back](#menu)
 > PHP и HTML: Написать форму с одним полей для ввода текста и
 кнопкой, по нажатию которой идёт сохранения данных из поля в файл.
 
